@@ -1,7 +1,7 @@
 <h1 align="center">Hola me llamo Marcos Salafranca Arnau</h1>
 <h3 align="center">Apasionado de la informatica</h3>
 
-- Estoy aprendiendo **JavaScript,CSS y HTML**
+- Estoy aprendiendo **Big Data, AI & Machine Learning**
 
 - Mis projectos [https://github.com/marcossalafranca](https://github.com/marcossalafranca)
 
